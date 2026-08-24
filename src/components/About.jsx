@@ -44,7 +44,7 @@ const About = ({ isDarkMode }) => {
   const education = [
     {
       id: 1,
-      role: "Bachelor's Degree in Informatics Engineering",
+      role: "Bachelor of Informatics Engineering",
       gpa : "3.52/4.00",
       date: 'September 2022 - September 2026',
       company: 'Raja Ali Haji Maritime University (UMRAH) | Tanjungpinang, Indonesia', 
@@ -364,9 +364,9 @@ const About = ({ isDarkMode }) => {
               </p>
               
               <p style={styles.bioDesc}>
-                Lulusan Teknik Informatika dari Universitas Maritim Raja Ali Haji yang memiliki passion besar di persimpangan antara desain dan data. 
+                Informatics Engineering graduate from Raja Ali Haji Maritime University with a deep passion for the intersection of design and data. 
                 <br/><br/>
-                Saya percaya teknologi terbaik lahir ketika kecerdasan sistem bertemu dengan kenyamanan pengguna. Fokus utama saya adalah membangun model prediktif yang efisien dan menerjemahkan wawasan data tersebut ke dalam antarmuka website yang interaktif, intuitif, dan user-friendly.
+                I believe the best technology emerges when system intelligence meets user convenience. My primary focus is building efficient predictive models and translating those data insights into interactive, intuitive, and user-friendly website interfaces.
               </p>
 
               <ul style={styles.contactList}>
@@ -376,7 +376,7 @@ const About = ({ isDarkMode }) => {
                 </li>
                 <li style={styles.contactItem}>
                   <Mail size={18} />
-                  <span>emailkamu@gmail.com</span>
+                  <span>renaldianicetus@gmail.com</span>
                 </li>
               </ul>
 
