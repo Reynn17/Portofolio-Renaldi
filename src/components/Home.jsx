@@ -3,6 +3,7 @@ import Particles from './Particles';
 import SplitText from './SplitText';
 import { Send, Download } from 'lucide-react';
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
+import profileImg from '../assets/renaldi.jpg';
 
 const Home = ({ isDarkMode }) => {
   const styles = {
@@ -216,9 +217,9 @@ const Home = ({ isDarkMode }) => {
           <div className="col-md-6 d-flex justify-content-center mb-4 mb-md-0 order-1 order-md-2">
             <div style={styles.imageContainer}>
               <img 
-                src="../src/assets/renaldi.jpg" 
-                alt="Foto Profil Renaldi" 
-                style={styles.profileImage} 
+                  src={profileImg} 
+                  alt="Foto Profil Renaldi" 
+                  style={styles.profileImage} 
               />
             </div>
           </div>
