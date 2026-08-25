@@ -360,7 +360,7 @@ const About = ({ isDarkMode }) => {
               <p style={styles.bioLabel}>Biography</p>
               <h2 style={styles.bioName}>Renaldi Anicetus<br/>Simbolon</h2>
               <p style={styles.bioRole}>
-                Front-End Developer & Machine Learning Enthusiast
+                Front-End Developer & UI/UX Designer | Data and Machine Learning Enthusiast
               </p>
               
               <p style={styles.bioDesc}>
