@@ -3,7 +3,7 @@ import Particles from './Particles';
 import SplitText from './SplitText';
 import { Send, Download } from 'lucide-react';
 import { FaLinkedin, FaGithub, FaInstagram } from 'react-icons/fa';
-import profileImg from '../assets/renaldi.jpg';
+import profileImg from '../assets/renaldi.webp';
 
 const Home = ({ isDarkMode }) => {
   const styles = {
