@@ -384,7 +384,7 @@ const About = ({ isDarkMode }) => {
               <div style={styles.buttonContainer}>
                 
                 <a 
-                  href="/documents/CV_Renaldi.pdf" 
+                  href="/documents/CV-Renaldi.pdf" 
                   target="_blank" 
                   rel="noopener noreferrer" 
                   style={styles.btnDownload}
