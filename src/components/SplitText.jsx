@@ -5,7 +5,7 @@ export default function SplitText({ isDarkMode }) {
   const roles = [
     "Front-End Developer",
     "UI/UX Designer",
-    "Data Scientist",
+    "Data Analysist",
     "Machine Learning Researcher"
   ];
 
