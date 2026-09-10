@@ -5,8 +5,7 @@ export default function SplitText({ isDarkMode }) {
   const roles = [
     "Front-End Developer",
     "UI/UX Designer",
-    "Data Analysist",
-    "Machine Learning Researcher"
+    "Data Analysist"
   ];
 
   const [currentIndex, setCurrentIndex] = useState(0);
